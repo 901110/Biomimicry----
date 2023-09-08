@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/Scenes/Scene1/Materials/Stage/toy store/entrance/New Material.mat.meta
 guid: 5b3d6ba369ae9f847881cd8109879541
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000
+=======
+guid: 1a585c891aab1c144a2442013a9c8a5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+>>>>>>> Stashed changes:Assets/Scenes/Scene2/Materials/maze/Building Blocks/New Material.mat.meta
   userData: 
   assetBundleName: 
   assetBundleVariant: 
